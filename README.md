@@ -2,6 +2,8 @@
 Replaces the World of Warships domination voice line (e.g. "Enemy has taken the lead") with silence.
 As well removes the "On Fire" voiceline.
 
+## Current limitations
+English voiceover language only at the moment.
 
 ## Just a few notes for future automation implementations
 ```
