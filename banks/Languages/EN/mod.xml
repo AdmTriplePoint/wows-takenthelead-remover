@@ -842,7 +842,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>En_Speech_Domination_Enemy_Advantage.wem</Name>
+							<Name>Silence.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -855,7 +855,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>En_Speech_Domination_Ally_Advantage.wem</Name>
+							<Name>Silence.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -868,7 +868,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>En_Speech_Domination_Enemy_Close_Win.wem</Name>
+							<Name>Silence.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -881,7 +881,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>En_Speech_Domination_Ally_Close_Win.wem</Name>
+							<Name>Silence.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -919,7 +919,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>En_Speech_Alarms_Fire_Alarm.wem</Name>
+							<Name>Silence.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
